@@ -43,3 +43,15 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+
+### Projects
+
+[**NextNest**](https://github.com/miles1744/NextNest)
+NextNest helps you explore what life might look like if you moved to another city.
+Enter your current city, desired destination, travel date, and the type of job you’re interested in — and we’ll give you insights to help you plan your next move. 
+
+[**EcoHub**](https://github.com/miles1744/CodePath-Final-Project)
+EcoHub is an interactive platform where users can share ideas, ask questions, and engage in conversations around environmental topics — from climate change and conservation to green technology and lifestyle habits. The goal is to foster awareness, collaboration, and action through open dialogue.
+
+[**MovieMoody**](https://github.com/Hussam-Mak/MovieMoody)
+Movie Moody is a personalized movie recommendation platform where users select how they’re feeling—happy, sad, anxious, adventurous, etc.—and receive movie suggestions that match their emotional state. Whether you’re in the mood for an uplifting comedy or a deep, introspective drama, Movie Moody curates the right film to fit your vibe.
