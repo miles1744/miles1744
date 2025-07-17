@@ -7,6 +7,9 @@
 
 🚀 I recently completed the **Machine Learning Foundations Certificate from Cornell University** aswell as the **SEO Tech Developer Internship** and I’m seeking a **Summer 2026 internship** in software engineering or machine learning.
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-milesthomas.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithomtab@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miles7/)
+
 ---
 
 ### 🖥️ Languages
