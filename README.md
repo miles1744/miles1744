@@ -54,4 +54,4 @@ Enter your current city, desired destination, travel date, and the type of job y
 EcoHub is an interactive platform where users can share ideas, ask questions, and engage in conversations around environmental topics — from climate change and conservation to green technology and lifestyle habits. The goal is to foster awareness, collaboration, and action through open dialogue.
 
 [**MovieMoody**](https://github.com/Hussam-Mak/MovieMoody)
-Movie Moody is a personalized movie recommendation platform where users select how they’re feeling—happy, sad, anxious, adventurous, etc.—and receive movie suggestions that match their emotional state. Whether you’re in the mood for an uplifting comedy or a deep, introspective drama, Movie Moody curates the right film to fit your vibe.
+Movie Moody is a command-line Python app that recommends movies based on your current mood. Just pick how you’re feeling, and Movie Moody will suggest a curated list of films that match your vibe.
