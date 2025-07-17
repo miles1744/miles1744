@@ -5,20 +5,36 @@
 
 💡 I'm currently working on several personal and academic projects, including full-stack apps using Flask & React and ML models for real-world datasets.
 
-🚀 I recently completed the **Machine Learning Foundations Certificate from Cornell University** and I’m seeking a **Summer 2026 internship** in software engineering or machine learning.
+🚀 I recently completed the **Machine Learning Foundations Certificate from Cornell University** aswell as the **SEO Tech Developer Internship** and I’m seeking a **Summer 2026 internship** in software engineering or machine learning.
 
-📫 How to reach me:  
-- 📧 Email: mithomtab@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+---
 
-## 🛠️ Skills  
-- Python | JavaScript (React) | Flask  
-- Git & GitHub | SQL  
-- Machine Learning (scikit-learn, pandas, Jupyter)
+### 🖥️ Languages
 
-## 🔭 Current Projects  
-- `ml-housing-price-predictor`: Linear Regression on housing data with model tuning  
-- `weather-forecast-dashboard`: Full-stack weather app using Flask + React  
-- `fall-ai-studio-project`: AI/ML project analyzing sentiment using NLP & classification
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-Thanks for stopping by! Let’s connect or collaborate 🤝  
+---
+
+### 🧰 Frameworks and Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🤖 Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
