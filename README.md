@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Miles Thomas
-![Alt Text](https://files.oaiusercontent.com/file-MgXinFfiTaTbF4Gvt9qiZu?se=2025-08-15T13%3A02%3A25Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dfbdfe458-d3e3-4be7-acfa-c1ca1351baed.png&sig=4BNn5gn6ny8brcihaImGIFngNX2zZk8mL7hcub7mqdc%3D)
+![Alt Text](https://files09.oaiusercontent.com/file-Ryyq8w647dwqpHUkNb3jHK?se=2025-08-15T13%3A08%3A12Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D901a4723-68f4-4d0c-a01e-05006515e919.png&sig=GJCslMeIlXnI60r0BEwZY%2B4pbUhmgtDQlwfxqLFT7LM%3D)
 
 🎓 I'm a junior Computer Science major at Virginia Tech passionate about building practical, impactful software and exploring machine learning applications.
 
